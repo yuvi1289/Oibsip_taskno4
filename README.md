@@ -31,8 +31,8 @@ How to use the application:
 4. When prompted, type in the name of any city or zip you would like to know about its  weather.
 5. Hit Enter.
 6. You should see a display that looks something like this:
-    Enter city name or ZIP code: new york
-    Weather Report for New York:
-    Temperature: 5.87°C
-    Humidity: 73%
-    Weather Condition: overcast clouds
+        Enter city name or ZIP code: new york
+        Weather Report for New York:
+        Temperature: 5.87°C
+        Humidity: 73%
+        Weather Condition: overcast clouds
